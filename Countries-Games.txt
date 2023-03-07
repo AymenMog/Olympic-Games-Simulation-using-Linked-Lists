@@ -1,0 +1,351 @@
+Afghanistan
+Afrique du Sud
+AlBanie
+Algerie
+Allemagne
+Andorre
+Angola
+Antigua-et-BarBuda
+AraBie Saoudite
+Argentine
+Armenie
+Australie
+Autriche
+AzerBaidjan
+Bahamas
+Bahrein
+Bangladesh
+BarBade
+Belgique
+Belize
+Benin
+Bielorussie
+Birmanie
+Bolivie
+Botswana
+Bresil
+Bulgarie
+Burkina Faso
+Burundi
+CamBodge
+Cameroun
+Canada
+Cap-Vert
+Chili
+Chine
+Chypre
+ColomBie
+Comores
+Coree du Nord
+Coree du Sud
+Costa Rica
+Cote d Ivoire
+Croatie
+CuBa
+Danemark
+DjiBouti
+Dominique
+Egypte
+Emirats araBes unis
+Equateur
+Espagne
+Estonie
+Etats-Unis
+Ethiopie
+Fidji
+Finlande
+France
+GaBon
+GamBie
+Georgie
+Ghana
+Grece
+Guinee
+Guinee equatoriale
+Guinee-Bissau
+Honduras
+Hongrie
+Inde
+Indonesie
+Irak
+Iran
+Irlande
+Islande
+Italie
+Jamaique
+Japon
+Jordanie
+Kazakhstan
+Kenya
+Koweit
+Lettonie
+LiBan
+LiBeria
+LiBye
+LuxemBourg
+Madagascar
+Malaisie
+Malawi
+Mali
+Malte
+Maroc
+Mauritanie
+Mexique
+Moldavie
+Mongolie
+Montenegro
+MozamBique
+NamiBie
+Nepal
+Nicaragua
+Niger
+Nigeria
+Norvege
+Nouvelle-Zelande
+Oman
+Ouganda
+Pakistan
+Palestine
+Panama
+Paraguay
+Pays-Bas
+Perou
+Philippines
+Pologne
+Portugal
+Qatar
+RepuBlique democratique du Congo
+RepuBlique du Congo
+RepuBlique tcheque
+Roumanie
+Royaume-Uni
+Russie
+Rwanda
+Salvador
+Senegal
+SerBie
+Singapour
+Slovaquie
+Slovenie
+Somalie
+Soudan
+Sri Lanka
+Suede
+Suisse
+Syrie
+Tadjikistan
+Tanzanie
+Tchad
+Thailande
+Togo
+Tunisie
+Turkmenistan
+Turquie
+Ukraine
+Uruguay
+Venezuela
+Viet Nam
+Yemen
+ZamBie
+ZimBaBwe
+
+Athletisme:Course 10 000 m (F) 
+Athletisme:Course 10 000 m (H)
+Athletisme:Course 100 m  (H)
+Athletisme:Course 100 m haies (F)
+Athletisme:Course 100 m haies (F)
+Athletisme:Course 1000 m (H)
+Athletisme:Course 110 m haies (H)
+Athletisme:Course 1500 m (H)  
+Athletisme:Course 200 m  (F)
+Athletisme:Course 3000 m steeple (F)
+Athletisme:Course 3000 m steeple (H)
+Athletisme:Course 400 m  (H)
+Athletisme:Course 400 m haies (H) 
+Athletisme:Course 5000 m  (H)
+Athletisme:Course 5000 m (F) 
+Athletisme:Course 60 m (H)
+Athletisme:Course 60 m haies (F)
+Athletisme:Course 60 m haies (H)
+Athletisme:Course 800 m (F)
+Athletisme:Course 800 m (F)  
+Athletisme:Decthalon (H)
+Athletisme:Hepthalon (F)
+Athletisme:lancer du disque (F)
+Athletisme:lancer du disque (H) 
+Athletisme:Lancer du javelot (F) 
+Athletisme:Lancer du javelot (H)
+Athletisme:Lancer du poids (F) 
+Athletisme:Lancer du poids (H)
+Athletisme:Marathon (F)
+Athletisme:Marathon (H)
+Athletisme:Marche 20km (F)
+Athletisme:Marche 50km (F)
+Athletisme:Relai 4*100 m (F)
+Athletisme:Relai 4*100 m (H)
+Athletisme:Relai 4*400 m (F)
+Athletisme:Relai 4*400 m (H)
+Athletisme:Saut a Lerche (F) 
+Athletisme:Saut a Lerche (H) 
+Athletisme:Saut en hauteur  (F)
+Athletisme:Saut en hauteur  (H)
+Athletisme:Saut en longueur (F)
+Athletisme:Saut en longueur (H) 
+Athletisme:triple saut (F) 
+Athletisme:triple saut (H)  
+Badminton (F) 
+Badminton (H)
+Baseball / Softball (F)
+Baseball / Softball (H)
+Basketball (F)
+Basketball (H)
+Basketball 3x3 (F)
+Basketball 3x3 (H)
+Beach-volley (F)
+Beach-volley (H)
+BMX Freestyle (F)
+BMX Freestyle (H)
+BMX Racing (F)
+BMX Racing (H)
+Boxe:Poids legers (F)
+Boxe:Poids legers (H)
+Boxe:Poids lourds (H)
+Boxe:Poids mi-lourds (H)
+Boxe:Poids mouches (F)
+Boxe:Poids mouches (H)
+Boxe:Poids moyens (F)
+Boxe:Poids moyens (H)
+Boxe:Poids plumes (F)
+Boxe:Poids plumes (H)
+Boxe:Poids welters (F)
+Boxe:Poids welters (H)
+Canoe-Kayak - slalom (F)
+Canoe-Kayak - slalom (H)
+Canoe-Kayak - sprint (F)
+Canoe-Kayak - sprint (H)
+Cyclisme sur piste (F)
+Cyclisme sur piste (H)
+Cyclisme sur route (F)
+Cyclisme sur route (H)
+Equitation:saut d obstacles (F)
+Equitation:saut d obstacles (H)
+Equitation:saut Dressage (F)
+Equitation:saut Dressage (H)
+Equitation:saut en granduer (F)
+Equitation:saut en granduer (H)
+Equitation:saut en hauteur  (H)
+Equitation:saut en hauteur (F)
+Escalade (F)
+Escalade (H)
+Escrime (F)
+Escrime (H)
+Football (F)
+Football (H)
+Golf (F)
+Golf (H)
+Gymnastique artistique (F)
+Gymnastique artistique (H)
+Gymnastique rythmique (F)
+Gymnastique rythmique (H)
+Halterophilie (F)
+Halterophilie (H)
+Handball (F)
+Handball (H)
+Hockey (F)
+Hockey (H)
+Judo:+100 kg (H)
+Judo:+78 kg (F)
+Judo:-100 kg (H)
+Judo:-48 kg (F)
+Judo:-52 kg (F)
+Judo:-57 kg (F)
+Judo:-60 kg (H)
+Judo:-63 kg (F)
+Judo:-66 kg (H)
+Judo:-70 kg (F)
+Judo:-73 kg (H)
+Judo:-78 kg (F)
+Judo:-81 kg (H)
+Judo:-90 kg (H)
+Karate:Poids legers (F)
+Karate:Poids legers (H)
+Karate:Poids lourds (F)
+Karate:Poids lourds (H)
+Karate:Poids moyens (F)
+Karate:Poids moyens (H)
+Lutte:-125 kg (H)
+Lutte:-50 kg (F)
+Lutte:-53 kg (F)
+Lutte:-57 kg (F)
+Lutte:-57 kg (H)
+Lutte:-62 kg (F)
+Lutte:-65 kg (H)
+Lutte:-68 kg (F)
+Lutte:-74 kg (H)
+Lutte:-76 kg (F)
+Lutte:-86 kg (H)
+Lutte:-97 kg (H)
+Nataion :10 km en eau liBre (F)
+Nataion :10 km en eau liBre (H)
+Natation:Brasse 100 m (F)  
+Natation:Brasse 100 m (H)
+Natation:Brasse 200 m (F)
+Natation:Brasse 200 m (H) 
+Natation:dos 100 m (F)
+Natation:dos 100 m (H)
+Natation:dos 200 m (F)
+Natation:dos 200 m (H)
+Natation:nage liBre 100 m (F)
+Natation:nage liBre 100 m (H)
+Natation:nage liBre 200 m (F)
+Natation:nage liBre 200 m (H)
+Natation:nage liBre 400 m (F)
+Natation:nage liBre 400 m (H)
+Natation:nage liBre 50 m (F)
+Natation:nage liBre 50 m (H)
+Natation:nage liBre 800 m (F)
+Natation:nage liBre 800 m (H)
+Natation:papillon 100 m (F)
+Natation:papillon 100 m (H)
+Natation:papillon 200 m (F)
+Natation:papillon 200 m (H)
+Natation:quatre nage 200 m (F)
+Natation:quatre nage 200 m (H)
+Natation:quatre nage 400 m (F)
+Natation:quatre nage 400 m (H)
+Plongeon (F)
+Plongeon (H)
+Rugby a sept (F)
+Rugby a sept (H)
+Skateboard (F)
+Skateboard (H)
+Surf (F)
+Surf (H)
+Taekwondo:Poids legers(F)
+Taekwondo:Poids legers(H)
+Taekwondo:Poids lourds(F)
+Taekwondo:Poids lourds(H)
+Taekwondo:Poids mouches (H) 
+Taekwondo:Poids mouches(F)
+Taekwondo:Poids moyens(F)
+Taekwondo:Poids moyens(H)
+Tennis (F)
+Tennis (H)
+Tennis de table (F)
+Tennis de table (H)
+Tir (F)
+Tir (H)
+Tir a l arc (H)
+Tir a l'arc (F)
+Trampoline (F)
+Trampoline (H)
+Triathlon (F)
+Triathlon (H)
+Voile (F)
+Voile (H)
+Volleyball (F)
+Volleyball (H)
+VTT (F)
+VTT (H)
+Water-polo (F)
+Water-polo (H)
