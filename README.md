@@ -1,6 +1,6 @@
 # Olympic-Games-Simulation-using-Linked-Lists
 
-### Description:
+## Description:
 In this repository we will present our work in our first year as computer science engineering student at **ESI**, *"Ecole Nationale Supérieure d'Informatique"* (*Details will be mentionned*)
 
 **- Libraries we have used:**
@@ -14,7 +14,7 @@ In this repository we will present our work in our first year as computer scienc
 
 **PS:** This program is executable only on windows, because we used the *windows.h* library
 
-### Setup:
+## Setup:
 #### - Build e-speak in order to play the sound in our program: 
 check those ressources fo that: https://github.com/espeak-ng/espeak-ng/blob/master/docs/building.md#windows
 
