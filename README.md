@@ -33,6 +33,11 @@ A procedure "suppays" (pays: string) that allows a country to be removed from th
 
 **PS:** This program is executable only on windows, because we used the *windows.h* library
 
+### For the animation we have done: 
+it's a line by line printf code, and the text it self we generated it from: some ascii text generating websites, and some ascii art websites too.
+
+*For Ex: https://patorjk.com/software/taag/#p=display&f=Graffiti&t=Type%20Something%20*
+
 ## 📥 Setup:
 #### - Build e-speak in order to play the sound in our program: 
 check those ressources fo that: https://github.com/espeak-ng/espeak-ng/blob/master/docs/building.md#windows
